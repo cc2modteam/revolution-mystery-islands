@@ -2088,5 +2088,5 @@ e_inventory_item = {
 
 -- revolution settings
 -- g_override_radar_multiplier = 1
--- g_revolution_hide_island_difficulty = false
+g_revolution_hide_island_difficulty = true
 g_revolution_hide_hostile_island_types = true

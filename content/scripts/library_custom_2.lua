@@ -10,3 +10,7 @@ if g_radar_ranges == nil then
 		return false
 	end
 end
+
+if g_rev_mods ~= nil then
+	table.insert(g_rev_mods, "Mystery Islands")
+end
